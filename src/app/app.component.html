@@ -1,0 +1,20 @@
+<nav>
+  <p-tabMenu [model]="items"></p-tabMenu>
+</nav>
+<router-outlet />
+<p-splitter [panelSizes]="[25, 75]" [style]="{ height: '300px' }" styleClass="mb-5">
+  <ng-template pTemplate>
+      <div class="col flex align-items-center justify-content-center">
+          Panel 1
+          <p>content-page works!</p>
+      </div>
+  </ng-template>
+  <ng-template pTemplate>
+      <div class="col flex align-items-center justify-content-center">
+        <app-content-page></app-content-page>  
+      </div>
+  </ng-template>
+</p-splitter>
+
+
+<app-footer-bar></app-footer-bar>
