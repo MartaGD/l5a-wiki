@@ -1,20 +1,11 @@
 <nav>
-  <p-tabMenu [model]="items"></p-tabMenu>
+  <p-tabMenu [model]="items" [activeItem]="activeItem" (activeItemChange)="onActiveItemChange($event)"></p-tabMenu>
 </nav>
-<router-outlet />
-<p-splitter [panelSizes]="[25, 75]" [style]="{ height: '300px' }" styleClass="mb-5">
-  <ng-template pTemplate>
-      <div class="col flex align-items-center justify-content-center">
-          Panel 1
-          <p>content-page works!</p>
-      </div>
-  </ng-template>
-  <ng-template pTemplate>
-      <div class="col flex align-items-center justify-content-center">
-        <app-content-page></app-content-page>  
-      </div>
-  </ng-template>
-</p-splitter>
+
+<div>
+   <!--BookViewer Component has the content of the book and the data of the book-->
+  <app-book-viewer [bookSelectedIn]="activeItem?.id" ></app-book-viewer>
+</div>
 
 
-<app-footer-bar></app-footer-bar>
+<!-- router-outlet /-->

@@ -1,0 +1,29 @@
+ [
+	{
+		"_tn": "3",
+		"_rd": "1",
+		"_cost": "5k",
+		"_name": "Ashigaru Armor"
+	},
+	{
+		"effect": "Wearing heavy armor increases the TN of all Skill Rolls using Agility or Reflexes by 5",
+		"_tn": "10",
+		"_rd": "5",
+		"_cost": "40k",
+		"_name": "Heavy Armor"
+	},
+	{
+		"effect": "Wearing light armor increases the TN of all Athletics and Stealth rolls by 5.",
+		"_tn": "5",
+		"_rd": "3",
+		"_cost": "25k",
+		"_name": "Light Armor"
+	},
+	{
+		"effect": "+12 TN while on horseback. Riding armor is considered heavy armor for the purposes of mechanical effects that specify armor type. Wearing riding armor increases the TN of all Agility and Reflexes rolls by +5 unless the wearer is on horseback.",
+		"_tn": "4",
+		"_rd": "4",
+		"_cost": "55k",
+		"_name": "Riding Armor"
+	}
+]

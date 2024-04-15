@@ -1,0 +1,148 @@
+[
+	{
+		"_type": "spiritual",
+		"_id": "ancestor_crab_hida",
+		"_name": "Ancestor, Hida",
+		"_value": "14",
+		"_clan": "Crab",
+		"description":""
+	},
+	{
+		"_type": "spiritual",
+		"_id": "ancestor_crab_kuni",
+		"_name": "Ancestor, Kuni",
+		"_value": "8",
+		"_clan": "Crab",
+		"description":""
+	},
+	{
+		"_type": "spiritual",
+		"_id": "ancestor_crane_doji",
+		"_name": "Ancestor, Doji",
+		"_value": "8",
+		"_clan": "Crane",
+		"description":""
+	},
+	{
+		"_type": "spiritual",
+		"_id": "ancestor_crane_kakita",
+		"_name": "Ancestor, Kakita",
+		"_value": "12",
+		"_clan": "Crane",
+		"description":""
+	},
+	{
+		"_type": "spiritual",
+		"_id": "ancestor_dragon_agasha_kitsuki",
+		"_name": "Ancestor, Agasha Kitsuki",
+		"_value": "11",
+		"_clan": "Dragon",
+		"description":""
+	},
+	{
+		"_type": "spiritual",
+		"_id": "ancestor_dragon_mirumoto",
+		"_name": "Ancestor, Mirumoto",
+		"_value": "9",
+		"_clan": "Dragon",
+		"description":""
+	},
+	{
+		"_type": "spiritual",
+		"_id": "ancestor_lion_akodo",
+		"_name": "Ancestor, Akodo",
+		"_value": "12",
+		"_clan": "Lion",
+		"description":""
+	},
+	{
+		"_type": "spiritual",
+		"_id": "ancestor_lion_ikoma",
+		"_name": "Ancestor, Ikoma",
+		"_value": "9",
+		"_clan": "Lion",
+		"description":""
+	},
+	{
+
+		"_type": "spiritual",
+		"_id": "ancestor_mantis_kaimetsu_uo",
+		"_name": "Ancestor, Kaimetsu-Uo",
+		"_value": "9",
+		"_clan": "Mantis",
+		"description":""
+	},
+	{
+		"_type": "spiritual",
+		"_id": "ancestor_mantis_gusai",
+		"_name": "Ancestor, Gusai",
+		"_value": "5",
+		"_clan": "Mantis",
+		"description":""
+	},
+	{
+		"_type": "spiritual",
+		"_id": "ancestor_phoenix_asako",
+		"_name": "Ancestor, Asako",
+		"_value": "5",
+		"_clan": "Phoenix",
+		"description":""
+	},
+	{
+		"_type": "spiritual",
+		"_id": "ancestor_phoenix_shiba",
+		"_name": "Ancestor, Shiba",
+		"_value": "9",
+		"_clan": "Phoenix",
+		"description":""
+	},
+	{
+		"_type": "spiritual",
+		"_id": "ancestor_scorpion_bayushi",
+		"_name": "Ancestor, Bayushi",
+		"_value": "12",
+		"_clan": "Scorpion",
+		"description":""
+	},
+	{
+		"_type": "spiritual",
+		"_id": "ancestor_scorpion_shoshuro",
+		"_name": "Ancestor, Shoshuro",
+		"_value": "8",
+		"_clan": "Scorpion",
+		"description":""
+	},
+	{
+		"_type": "spiritual",
+		"_id": "ancestor_spider_hida_atarasi",
+		"_name": "Ancestor, Hida Atarasi",
+		"_value": "7",
+		"_clan": "Spider",
+		"description":""
+	},
+	{
+		"_type": "spiritual",
+		"_id": "ancestor_spider_kuni_yori",
+		"_name": "Ancestor, Kuni Yori",
+		"_value": "5",
+		"_clan": "Spider",
+		"description":""
+	},
+	{
+
+		"_type": "spiritual",
+		"_id": "ancestor_unicorn_moto",
+		"_name": "Ancestor, Moto",
+		"_value": "10",
+		"_clan": "Unicorn",
+		"description":""
+	},
+	{
+		"_type": "spiritual",
+		"_id": "ancestor_unicorn_shinjo",
+		"_name": "Ancestor, Shinjo",
+		"_value": "8",
+		"_clan": "Unicorn",
+		"description":""
+	}
+]

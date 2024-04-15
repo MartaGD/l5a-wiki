@@ -1,0 +1,138 @@
+[
+  {
+		"tag": "Minor Clan",
+		"_name": "Badger",
+		"_id": "badger"
+	},
+	{
+		"tag": "Minor Clan",
+		"description": "Bla Bla Bla",
+		"_name": "Bat",
+		"_id": "bat"
+	},
+	{
+		"tag": "Minor Clan",
+		"description": "Bla Bla Bla",
+		"_name": "Boar",
+		"_id": "boar"
+	},
+	{
+		"tag": "Great Clan",
+		"_name": "Crab",
+		"_id": "crab",
+		"description": "Bla Bla Bla"
+	},
+	{
+		"tag": "Great Clan",
+		"_name": "Crane",
+		"_id": "crane"
+	},
+	{
+		"tag": "Great Clan",
+		"_name": "Dragon",
+		"_id": "dragon",
+		"description": "The Dragon Clan was founded by the Kami Togashi, the most enigmatic of Amaterasu's children. For over a thousand years it has been their duty to watch and record the history of Rokugan. While the Dragon are seen as reclusive and aloof by most clans, they understand the necessity of acting only when the time is right."
+	},
+	{
+		"tag": "Minor Clan",
+		"_name": "Dragonfly",
+		"_id": "dragonfly"
+	},
+	{
+		"tag": "Minor Clan",
+		"_name": "Falcon",
+		"_id": "falcon"
+	},
+	{
+		"tag": "Minor Clan",
+		"_name": "Fox",
+		"_id": "fox"
+	},
+	{
+		"tag": "Minor Clan",
+		"_name": "Hare",
+		"_id": "hare"
+	},
+	{
+		"tag": "Great Clan",
+		"_name": "Imperial",
+		"_id": "imperial"
+	},
+	{
+		"tag": "Great Clan",
+		"_name": "Lion",
+		"_id": "lion"
+	},
+	{
+		"tag": "Great Clan",
+		"_name": "Mantis",
+		"_id": "mantis"
+	},
+	{
+		"tag": "Minor Clan",
+		"_name": "Monkey",
+		"_id": "monkey"
+	},
+	{
+		"tag": "Minor Clan",
+		"_name": "Monks",
+		"_id": "monks"
+	},
+	{
+		"tag": "Minor Clan",
+		"_name": "Oriole",
+		"_id": "oriole"
+	},
+	{
+		"tag": "Minor Clan",
+		"_name": "Ox",
+		"_id": "ox"
+	},
+	{
+		"tag": "Great Clan",
+		"description":"asdasdsas",
+		"_name": "Phoenix",
+		"_id": "phoenix"
+	},
+	{
+		"tag": "Ronin",
+		"_name": "Ronin",
+		"_id": "ronin"
+	},
+	{
+		"tag": "Great Clan",
+		"_name": "Scorpion",
+		"_id": "scorpion"
+	},
+	{
+		"tag": "Minor Clan",
+		"description":"sdsadsadasda",
+		"_name": "Snake",
+		"_id": "snake"
+	},
+	{
+		"tag": "Minor Clan",
+		"_name": "Sparrow",
+		"_id": "sparrow"
+	},
+	{
+		"tag": "Minor Clan",
+		"_name": "Spider",
+		"_id": "spider"
+	},
+	{
+		"tag": "Minor Clan",
+		"_name": "Tiger",
+		"_id": "tiger"
+	},
+	{
+		"tag": "Minor Clan",
+		"_name": "Tortoise",
+		"_id": "tortoise"
+	},
+	{
+		"tag": "Great Clan",
+		"_name": "Unicorn",
+		"_id": "unicorn"
+	}
+]

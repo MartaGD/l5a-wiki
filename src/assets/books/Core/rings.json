@@ -1,0 +1,72 @@
+[
+	{
+	"ring_id": "ring_air",
+	"ring_name": "Aire",
+	"ring_icon": "icon_air",
+	"ring_description":  "Represents all the forces that are not seen, but are known to be present; the element of storms, subtlety and unpredictability. The two Traits of this ring are Reflexes and Awareness.",
+	"ring_traits":[
+				{"trait_id":"reflexes",
+				"trait_name":"Reflexes",
+				"trait_description":"Reflexes represents how quickly a character can react to sudden stimuli."
+				},
+				{"trait_id":"awareness",
+				"trait_name":"Awareness",
+				"trait_description":"Awareness represents a character's intuition and empathy. A character with high Awareness is also able to play off other impressions and he can be very charismatic when he needs to be."
+				},
+			]
+	},
+	{
+	"ring_id": "ring_fire",
+	"ring_name": "Fuego",
+	"ring_icon": "icon_fire",
+	"ring_description": "Represents activity, motion, action and force. The two Traits of this ring are Agility and Intelligence.",
+	"ring_traits":[
+				{"trait_id":"agility",
+				"trait_name":"Agility",
+				"trait_description":"Agility was a character's ability to move with style and grace, to be able to control one's actions."
+				},
+				{"trait_id":"intelligence",
+				"trait_name":"Intelligence",
+				"trait_description":"Intelligence is a mental Trait that measures a character's ability to gain new knowledges and put it to use. A character with a high Intelligence understands new information quickly, puts it to use instantly, and recalls it with great clarity. Those with lower Intelligence have difficulty understanding new material and recall it imperfectly."
+				},
+			]
+	},
+	{
+	"ring_id": "ring_earth",
+	"ring_name": "Tierra",
+	"ring_icon": "icon_earth",
+	"ring_description": "Represents passive strength, resistance, and fortitude. The two Traits of this ring are Stamina and Willpower",
+	"ring_traits":[
+				{"trait_id":"stamina",
+				"trait_name":"Stamina",
+				"trait_description":"Stamina represents a character's "wind." The higher a character's Stamina, the longer he can press his physical reserves to the limit."
+				},
+				{"trait_id":"willpower",
+				"trait_name":"Willpower",
+				"trait_description":"Willpower represents a characters ability to say "No." Willpower is Stamina's mental counterpart."
+				},
+			]
+	},
+	{
+	"ring_id": "ring_water",
+	"ring_name": "Agua",
+	"ring_icon": "icon_water",
+	"ring_description": "Represents strength. The two Traits of this ring are Strength and Perception.",
+	"ring_traits":[
+				{"trait_id":"Strength",
+				"trait_name":"Fuerza",
+				"trait_description":"Strength was a character's ability to lift, carry and push and hold fast. It is raw physical power and it determines how much damage a character can deal out in combat."
+				},
+				{"trait_id":"perception",
+				"trait_name":"Percepción",
+				"trait_description":"Perception was a character's ability to perceive the world around him using the five senses."
+				},
+			]
+	},
+	{
+		"ring_id": "ring_void",
+		"ring_name": "Vacío",
+		"ring_icon": "icon_void",
+		"ring_description": "represents the character's ability to use all Rings as a single Ring, understanding that all elements are the same element."
+	}
+]

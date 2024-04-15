@@ -1,0 +1,11 @@
+<p-splitter [panelSizes]="[10, 90]" [style]="{ height: '100vh' }" styleClass="mb-5">
+    <ng-template pTemplate>
+        <app-book-chapters [bookSelectedIn]="bookSelectedIn" (chapterSelectedOut)="getSelectedChapter($event)"></app-book-chapters>
+    </ng-template>
+    <ng-template pTemplate>
+        <div class="col flex align-items-center justify-content-center">
+          <app-content-page [chapterSelectedIn]="prueba" [bookSelectedIn]="bookSelectedIn"></app-content-page>  
+        </div>
+    </ng-template>
+  </p-splitter>  
+<p-scrollTop></p-scrollTop>

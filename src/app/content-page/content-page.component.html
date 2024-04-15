@@ -1,2 +1,69 @@
+<div *ngIf="chapterSelectedIn=='ancestors' && bookSelectedIn=='core'">
+    <div *ngFor="let a of ancestors" class="anchors card flex align-items-center gap-2 flex-wrap">
+      <!--p-chip label={{a._name}} class="anchor-chip"><a (click)="focusSection(a._id)"></a></p-chip-->
+      <p-button class="chip anchor-chip" label={{a._name}} (onClick)="scrollToAnchroingPosition(a._id)"></p-button>
+    </div>
+    <div *ngFor="let a of ancestors">
+      <p-card id={{a._id}} header={{a._name}} subheader=Coste:{{a._value}}> 
+        {{a.description}} 
+        <ng-template pTemplate="footer">
+          <p-tag [rounded]="true" class={{a._clan}} value={{a._clan}} ></p-tag>
+      </ng-template>
+      </p-card>
+    </div>
+  </div>
 
-<p>plane 2</p>
+  <div *ngIf="chapterSelectedIn=='clans' && bookSelectedIn=='core'" >
+    <div *ngFor="let a of clans">
+      <p-card header={{a._name}} subheader={{a.tag}}> 
+        <table>
+          <tr>
+            <td class="card-content">{{a.description}}</td>
+            <td class="card-links">
+              <span class="p-card-links">Enlaces</span>
+              <ul>
+                <li>{{a._name}}</li>
+                <li>{{a._name}}</li>
+              </ul>
+            </td>
+          </tr>
+        </table>
+
+        <ng-template pTemplate="footer">
+          <p-tag [rounded]="true" class={{a._name}} value={{a._name}} ></p-tag>
+          <p-tag [style]="{ 'background': 'grey'}" [rounded]="true" value={{a.tag}} ></p-tag>        
+      </ng-template>
+        </p-card>
+
+    </div>
+  </div>
+
+
+
+  <div *ngIf="chapterSelectedIn=='armors' && bookSelectedIn=='core'" >
+    <div *ngFor="let a of armors">
+      <p-card header={{a._name}} subheader=Precio:{{a._cost}}> 
+        {{a.description}}
+        {{a.effect}}
+        <ng-template pTemplate="footer">
+          <span>NO Armadura: {{a._tn}}</span>
+          <br>
+          <span>Reducción: {{a._rd}}</span>
+        </ng-template>
+        </p-card>
+    </div>
+  </div>
+
+    
+    <div *ngIf="chapterSelectedIn=='spells' && bookSelectedIn=='eoe'" >
+      <div *ngFor="let a of clans">
+        <p-card header={{a._name}} subheader={{a.tag}}> 
+          {{a.description}}
+          <ng-template pTemplate="footer">
+            <p-tag [rounded]="true" class={{a._name}} value={{a._name}} ></p-tag>
+            <p-tag [style]="{ 'background': 'grey'}" [rounded]="true" value={{a.tag}} ></p-tag>        
+        </ng-template>
+          </p-card>
+      </div>
+    </div>
+

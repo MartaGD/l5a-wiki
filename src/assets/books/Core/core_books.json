@@ -1,0 +1,54 @@
+[
+	{
+	"_id": "ancestors",
+	"_name": "Ancestors"
+	},	
+	{
+	"_id": "armors",
+	"_name": "Armors"
+	},
+		{
+	"_id": "clans",
+	"_name": "Clans"
+	},
+		{
+	"_id": "katas",
+	"_name": "Katas"
+	},
+		{
+	"_id": "flaws",
+	"_name": "Flaws"
+	},
+		{
+	"_id": "kihos",
+	"_name": "Kihos"
+	},
+		{
+	"_id": "merits",
+	"_name": "Merits"
+	},	{
+	"_id": "perk",
+	"_name": "Perk Categories"
+	},	{
+	"_id": "rings",
+	"_name": "Rings"
+	},	{
+	"_id": "skills_categories",
+	"_name": "Skills Categories"
+	},	{
+	"_id": "skills",
+	"_name": "Skills"
+	},
+		{
+	"_id": "tattoos",
+	"_name": "Tattoos"
+	},
+		{
+	"_id": "weapon_effects",
+	"_name": "Weapon Effects"
+	},
+		{
+	"_id": "weapons",
+	"_name": "Weapons"
+	}
+]

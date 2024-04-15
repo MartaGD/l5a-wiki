@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<L5RCM>
+  <Clan name="Badger" id="badger">
+    <Tags>
+      <Tag>Minor Clan</Tag>
+    </Tags>
+	</Clan>
+  <Clan name="Bat" id="bat">
+    <Tags>
+      <Tag>Minor Clan</Tag>
+    </Tags>
+    <Description>Bla Bla Bla</Description>
+	</Clan>
+  <Clan name="Boar" id="boar">
+    <Tags>
+      <Tag>Minor Clan</Tag>
+    </Tags>
+	</Clan>
+  <Clan name="Crab" id="crab">
+    <Tags>
+      <Tag>Great Clan</Tag>
+    </Tags>
+	</Clan>
+  <Clan name="Crane" id="crane">
+    <Tags>
+      <Tag>Great Clan</Tag>
+    </Tags>
+	</Clan>
+  <Clan name="Dragon" id="dragon">
+    <Tags>
+      <Tag>Great Clan</Tag>
+    </Tags>
+	</Clan>
+  <Clan name="Dragonfly" id="dragonfly">
+    <Tags>
+      <Tag>Minor Clan</Tag>
+    </Tags>
+	</Clan>
+  <Clan name="Falcon" id="falcon">
+    <Tags>
+      <Tag>Minor Clan</Tag>
+    </Tags>
+	</Clan>
+  <Clan name="Fox" id="fox">
+    <Tags>
+      <Tag>Minor Clan</Tag>
+    </Tags>
+	</Clan>
+  <Clan name="Hare" id="hare">
+    <Tags>
+      <Tag>Minor Clan</Tag>
+    </Tags>
+	</Clan>
+  <Clan name="Imperial" id="imperial">
+    <Tags>
+      <Tag>Great Clan</Tag>
+    </Tags>
+	</Clan>
+  <Clan name="Lion" id="lion">
+    <Tags>
+      <Tag>Great Clan</Tag>
+    </Tags>
+	</Clan>
+  <Clan name="Mantis" id="mantis">
+    <Tags>
+      <Tag>Great Clan</Tag>
+    </Tags>
+	</Clan>
+  <Clan name="Monkey" id="monkey">
+    <Tags>
+      <Tag>Minor Clan</Tag>
+    </Tags>
+	</Clan>
+  <Clan name="Monks" id="monks">
+    <Tags>
+      <Tag>Minor Clan</Tag>
+    </Tags>
+	</Clan>
+  <Clan name="Oriole" id="oriole">
+    <Tags>
+      <Tag>Minor Clan</Tag>
+    </Tags>
+	</Clan>
+  <Clan name="Ox" id="ox">
+    <Tags>
+      <Tag>Minor Clan</Tag>
+    </Tags>
+	</Clan>
+  <Clan name="Phoenix" id="phoenix">
+    <Tags>
+      <Tag>Great Clan</Tag>
+    </Tags>
+	</Clan>
+  <Clan name="Ronin" id="ronin">
+    <Tags>
+      <Tag>Ronin</Tag>
+    </Tags>
+	</Clan>
+  <Clan name="Scorpion" id="scorpion">
+    <Tags>
+      <Tag>Great Clan</Tag>
+    </Tags>
+	</Clan>
+  <Clan name="Snake" id="snake">
+    <Tags>
+      <Tag>Minor Clan</Tag>
+    </Tags>
+	</Clan>
+  <Clan name="Sparrow" id="sparrow">
+    <Tags>
+      <Tag>Minor Clan</Tag>
+    </Tags>
+	</Clan>
+  <Clan name="Spider" id="spider">
+    <Tags>
+      <Tag>Minor Clan</Tag>
+    </Tags>
+	</Clan>
+  <Clan name="Tiger" id="tiger">
+    <Tags>
+      <Tag>Minor Clan</Tag>
+    </Tags>
+	</Clan>
+  <Clan name="Tortoise" id="tortoise">
+    <Tags>
+      <Tag>Minor Clan</Tag>
+    </Tags>
+	</Clan>
+  <Clan name="Unicorn" id="unicorn">
+    <Tags>
+      <Tag>Great Clan</Tag>
+    </Tags>
+	</Clan>
+</L5RCM>

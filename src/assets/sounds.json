@@ -1,0 +1,19 @@
+[
+  {
+    "nameShow": "Market",
+    "nameFile": "market",
+    "extension": ".wav",
+    "group": "ambient",
+    "loop": true,
+    "prueba": "sdada"
+  },
+  {
+    "nameShow": "Exhale",
+    "nameFile": "Exhale",
+    "extension": ".mp3",
+    "group": "ambient",
+    "loop": true,
+    "prueba": "sdada"
+  }
+
+]

@@ -1,0 +1,7 @@
+<div class="col flex align-items-center justify-content-center">
+    {{bookSelectedIn}}<br>
+    <span *ngFor="let chapter of chapters" id='{{chapter._id}}' (click)="chapterEmiter(chapter)">
+        {{chapter._name}}
+        <br>
+    </span>  
+</div>
